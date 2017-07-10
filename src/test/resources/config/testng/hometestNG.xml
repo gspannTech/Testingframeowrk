@@ -1,0 +1,15 @@
+<suite name="Json data Test Suite" verbose="2">
+<!-- 	<listeners> -->
+<!-- 		<listener class-name="com.sephora.core.listeners.CustomReporter" /> -->
+<!-- 	</listeners> -->
+	<parameter name="browser" value="firefox" />
+	<parameter name="applicationName" value="http://www.google.com" />
+	<parameter name="username" value="appium" />
+	<parameter name="password" value="androidAPP" />
+	
+	<test name="Macys data provider test">
+		<classes>
+			<class name="com.jsonasdataprovider.test.home.HomeTest" />
+		</classes>
+	</test>
+</suite>

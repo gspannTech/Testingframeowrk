@@ -1,0 +1,3 @@
+com\jsonasdataprovider\test\base\JsonAsDataproviderBaseTest.class
+com\jsonasdataprovider\test\home\HomeTest.class
+com\jsonasdataprovider\test\base\JsonAsDataProviderWebdriverBaseTest.class

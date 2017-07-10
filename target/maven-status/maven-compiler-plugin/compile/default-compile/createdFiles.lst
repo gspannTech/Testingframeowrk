@@ -1,0 +1,13 @@
+com\jsonasdataprovider\base\page\JsonasDataProviderRunnnerbase.class
+com\jsonasdataprovider\base\page\PropertiesBase.class
+com\jsondataprovider\basepage\Homepage.class
+com\jsonasdataprovider\test\home\HomeTest.class
+com\jsondataprovider\core\utils\JsonReader.class
+com\jsonasdataprovider\base\page\BrowserSetUp.class
+com\jsonasdataprovider\test\base\JsonAsDataproviderBaseTest.class
+com\jsonasdataprovider\base\page\SetBrowser.class
+com\jsondataprovider\core\utils\ExtentManger.class
+com\jsonasdataprovider\core\constants\TestConstantsJson.class
+com\jsondataprovider\basepage\JsonasdataProviderBasePage.class
+com\jsonasdataprovider\test\base\JsonAsDataProviderWebdriverBaseTest.class
+com\jsondataprovider\core\utils\ExcelReader.class

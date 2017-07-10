@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Failed suite [Json data Test Suite]">
+  <parameter name="password" value="androidAPP"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="applicationName" value="http://www.google.com"/>
+  <parameter name="username" value="appium"/>
+  <test name="Macys data provider test(failed)">
+    <classes>
+      <class name="com.jsonasdataprovider.test.home.HomeTest">
+        <methods>
+          <include name="loginEmail"/>
+          <include name="setUpBeforeSuite"/>
+          <include name="setupbeforeSuite"/>
+          <include name="aftermethodsetup"/>
+          <include name="beforemethodsetup"/>
+          <include name="connectedtoDB"/>
+        </methods>
+      </class> <!-- com.jsonasdataprovider.test.home.HomeTest -->
+    </classes>
+  </test> <!-- Macys data provider test(failed) -->
+</suite> <!-- Failed suite [Json data Test Suite] -->
