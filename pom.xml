@@ -43,11 +43,11 @@
         </dependency>
 
 	
-	<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-api</artifactId>
-			<version>2.1</version>
-		</dependency>
+<!-- 	<dependency> -->
+<!-- 			<groupId>org.apache.logging.log4j</groupId> -->
+<!-- 			<artifactId>log4j-api</artifactId> -->
+<!-- 			<version>2.1</version> -->
+<!-- 		</dependency> -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
@@ -89,21 +89,21 @@
 <!--   </pluginRepositories> -->
   
   
-   <reporting>
-    <plugins>
-    <!-- TestNG-xslt related configuration. -->
-      <plugin>
-        <groupId>org.reportyng</groupId>
-        <artifactId>reportyng</artifactId>
-        <version>1.1</version>
-        <configuration>
-          <!-- Output directory for the testng xslt report -->
-          <outputDir>/target/testng-xslt-report</outputDir>
-          <sortTestCaseLinks>true</sortTestCaseLinks>
-          <testDetailsFilter>FAIL,SKIP,PASS,CONF,BY_CLASS</testDetailsFilter>
-          <showRuntimeTotals>true</showRuntimeTotals>
-        </configuration>
-      </plugin>
-    </plugins>
-  </reporting>
+<!--    <reporting> -->
+<!--     <plugins> -->
+<!--     TestNG-xslt related configuration. -->
+<!--       <plugin> -->
+<!--         <groupId>org.reportyng</groupId> -->
+<!--         <artifactId>reportyng</artifactId> -->
+<!--         <version>1.1</version> -->
+<!--         <configuration> -->
+<!--           Output directory for the testng xslt report -->
+<!--           <outputDir>/target/testng-xslt-report</outputDir> -->
+<!--           <sortTestCaseLinks>true</sortTestCaseLinks> -->
+<!--           <testDetailsFilter>FAIL,SKIP,PASS,CONF,BY_CLASS</testDetailsFilter> -->
+<!--           <showRuntimeTotals>true</showRuntimeTotals> -->
+<!--         </configuration> -->
+<!--       </plugin> -->
+<!--     </plugins> -->
+<!--   </reporting> -->
 </project>

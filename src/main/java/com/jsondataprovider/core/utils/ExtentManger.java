@@ -2,7 +2,6 @@ package com.jsondataprovider.core.utils;
 
 import java.io.File;
 import java.util.Date;
-
 import com.relevantcodes.extentreports.ExtentReports;
 
 public class ExtentManger {

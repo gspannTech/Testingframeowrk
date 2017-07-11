@@ -3,10 +3,7 @@ package com.jsondataprovider.basepage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-
 import com.jsonasdataprovider.base.page.BrowserSetUp;
-
-
 
 
 public class JsonasdataProviderBasePage extends BrowserSetUp{

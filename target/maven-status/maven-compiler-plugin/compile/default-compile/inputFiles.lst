@@ -1,13 +1,13 @@
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsonasdataprovider\base\page\PropertiesBase.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsondataprovider\basepage\Homepage.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsondataprovider\core\utils\ExtentManger.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsondataprovider\core\utils\JsonReader.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsondataprovider\core\utils\ExcelReader.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsondataprovider\basepage\JsonasdataProviderBasePage.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\test\java\com\jsonasdataprovider\test\base\JsonAsDataproviderBaseTest.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsonasdataprovider\base\page\SetBrowser.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsonasdataprovider\core\constants\TestConstantsJson.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\test\java\com\jsonasdataprovider\test\base\JsonAsDataProviderWebdriverBaseTest.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsonasdataprovider\base\page\BrowserSetUp.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\main\java\com\jsonasdataprovider\base\page\JsonasDataProviderRunnnerbase.java
-E:\New folder\D Drive\appWebAutomation\jsonAsDataprovider\src\test\java\com\jsonasdataprovider\test\home\HomeTest.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsonasdataprovider\base\page\PropertiesBase.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsonasdataprovider\core\constants\TestConstantsJson.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsondataprovider\core\utils\ExcelReader.java
+E:\demopurposeWorkspace\jsonDataprovider\src\test\java\com\jsonasdataprovider\test\base\JsonAsDataproviderBaseTest.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsonasdataprovider\base\page\JsonasDataProviderRunnnerbase.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsondataprovider\basepage\JsonasdataProviderBasePage.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsondataprovider\core\utils\ExtentManger.java
+E:\demopurposeWorkspace\jsonDataprovider\src\test\java\com\jsonasdataprovider\test\base\JsonAsDataProviderWebdriverBaseTest.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsondataprovider\core\utils\JsonReader.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsondataprovider\basepage\Homepage.java
+E:\demopurposeWorkspace\jsonDataprovider\src\test\java\com\jsonasdataprovider\test\home\HomeTest.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsonasdataprovider\base\page\SetBrowser.java
+E:\demopurposeWorkspace\jsonDataprovider\src\main\java\com\jsonasdataprovider\base\page\BrowserSetUp.java
